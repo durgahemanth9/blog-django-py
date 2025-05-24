@@ -16,4 +16,4 @@ pip install powershift-cli[image]
 
 # Run the build phase with support for action hooks.
 
-exec powershift image assemble
+exec powershift assemble
